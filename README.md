@@ -2,8 +2,8 @@
 
 This is the supporting notebook for the blog page accessible [here](http://medium.com)
 
-##Content
+## Content
 
-##Introduction
+## Introduction
 
-##Results
+## Results
