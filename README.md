@@ -17,7 +17,7 @@ are given 20 seconds to draw a sketch belonging to a specified category. The dra
 drawn with additional information like timestamp, category, timing.
 
 For this post, I have selected four categories: **sandwich**, **ice cream**, **cookie** and **cake**.<br/>
-Note that there is no data stored in this repository due to the size limitations.
+Note that there is no data stored in this repository due to the size of these files.
 
 * Quick, Draw! data set can be downloaded [here](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/simplified)
 * I have used the simplified drawing files format(`.ndjson`) described [here](https://github.com/googlecreativelab/quickdraw-dataset#simplified-drawing-files-ndjson)
