@@ -6,7 +6,9 @@ This is the supporting repository and notebook for a blog post accessible [here]
 While there is a lot of excitement about AI research results and applications, a lot of ethical, fairness or inclusiveness issues are raised.
 Indeed, no matter how fair algorithms might be, if the data they are learning from is biased, we still can't trust their results.
 Can we create a future of AI that works for everyone?
+
 These are deep questions investigating the more human side of technology and covering several domains (technology, philosophy, sociology, psychology, etc.).
+
 My humble post is an attempt to explore and raise awareness about such issues looking at a fun data set from the Google game Quick, Draw!
 
 ## Content
