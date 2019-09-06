@@ -17,7 +17,7 @@ drawn with additional information like timestamp, category, timing.
 For this post, I have selected four categories: **sandwich**, **ice cream**, **cookie** and **cake**.
 Note that there is no data stored in this repository due to the size limitations.
 
-* Quick, Draw! data set can be downloaded here https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/simplified.
+* Quick, Draw! data set can be downloaded [here](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/simplified)
 * I have used the simplified drawing files format(`.ndjson`) described [here](https://github.com/googlecreativelab/quickdraw-dataset#simplified-drawing-files-ndjson)
 * Drawings from all categories can be browsed [here](https://quickdraw.withgoogle.com/data)
 
