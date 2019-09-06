@@ -16,7 +16,7 @@ The Quick, Draw! data set consists of over 50 million sketches belonging to 345 
 are given 20 seconds to draw a sketch belonging to a specified category. The drawings (or doodles) are stored as vectors containing the strokes in the order they were
 drawn with additional information like timestamp, category, timing.
 
-For this post, I have selected four categories: **sandwich**, **ice cream**, **cookie** and **cake**.
+For this post, I have selected four categories: **sandwich**, **ice cream**, **cookie** and **cake**.<br/>
 Note that there is no data stored in this repository due to the size limitations.
 
 * Quick, Draw! data set can be downloaded [here](https://console.cloud.google.com/storage/browser/quickdraw_dataset/full/simplified)
