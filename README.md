@@ -1,6 +1,6 @@
 # Data Scientist Nanodegree - Blog Post Project
 
-This is the supporting repository and notebook for a blog post accessible [here](http://medium.com)
+This is the supporting repository and notebook for a blog post accessible [here](https://medium.com/@garcia.stef/do-open-global-data-sets-work-for-everyone-332a76f327e0?sk=21ed0cc4d55c96f0157b7c793442364f)
 
 ## Introduction
 While there is a lot of excitement about AI research results and applications, a lot of ethical, fairness or inclusiveness issues are raised.
