@@ -23,5 +23,5 @@ Note that there is no data stored in this repository due to the size limitations
 
 The libraries used were the typical pandas, numpy and matplotlib.pyplot. I also used the plotly library and seaborn for my visualizations.
 
-QuickDraw.html is the html extract of the jupyter notebook
+QuickDraw.html is the html extract of the jupyter notebook  
 .png files are images of charts or table from the notebook used in the blog post
